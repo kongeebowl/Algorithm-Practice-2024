@@ -122,5 +122,24 @@ DOMSelectors.scissors.addEventListener("click", function () {
 });
 
 DOMSelectors.historyButton.addEventListener("click", function () {
-  getHistory();uf
+  getHistory();
 });
+
+/* function factorsForN(n) {
+  if (n <= 0) {
+    return "negative number or 0";
+  }
+  let factors = 1;
+  for (let i = 1; i <= n; i++) {
+    factors *= i;
+  }
+  return factors;
+}
+
+console.log(factorsForN(4)); */
+
+/* function getUserScore(user) {
+  if (!user) {
+    return;
+  }
+} */
