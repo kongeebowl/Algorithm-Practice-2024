@@ -122,5 +122,5 @@ DOMSelectors.scissors.addEventListener("click", function () {
 });
 
 DOMSelectors.historyButton.addEventListener("click", function () {
-  getHistory();
+  getHistory();uf
 });
