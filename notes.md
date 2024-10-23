@@ -44,14 +44,7 @@ if (opponentChoice == "rock") {
 The for loop is the iteration
 
 ```javascript
-  for (let i = 0; i < history.length; i++) {
-    if (history[i] == "win") {
-      win++;
-    } else if (history[i] == "lose") {
-      lose++;
-    } else {
-      draw++;
-    }
+
 ```
 
 the if statements are the decision making (selection)
