@@ -13,7 +13,7 @@ function parkingSpaces(N, x, y) {
     5. 
     */
 
-function parkingSpaces(spaces, yes, today) {
+/* function parkingSpaces(spaces, yes, today) {
   let count = 0;
   for (let i = 0; i < spaces; i++) {
     if (yes[i] === "C" && today[i] === "C") {
@@ -24,3 +24,4 @@ function parkingSpaces(spaces, yes, today) {
 }
 
 console.log(parkingSpaces(5, "CC..C", "C...C"));
+ */
